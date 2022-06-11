@@ -1,4 +1,4 @@
-# Hey, I'm Jeffrey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, I'm Jeffrey! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JKCTech?label=Follow)](https://twitter.com/intent/follow?screen_name=JKCTech)
 [![Linkedin: Jeffrey Koopman](https://img.shields.io/badge/-Jeffrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkoopman99/)](https://www.linkedin.com/in/jkoopman99/)
