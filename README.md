@@ -8,7 +8,7 @@
 
 <img src="https://pbs.twimg.com/profile_images/1388807545746296832/-d_AueYe_400x400.jpg" align="right" height="150">
 
-I am a 23 year old developer / software engineering student from The Netherlands.
+I am a 24 year old developer / software engineering student from The Netherlands.
 
 I like:
 - 🤖 Electronics / Arduino (C / C++)
